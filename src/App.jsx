@@ -6,7 +6,7 @@ import Proyectos from './Proyectos'
 import Footer from './Footer'
 import './index.css'
 import Home from './Home'
-import NotFound from './NotFound'
+import NotFound from './404'
 
 export default function App () {
   return (
